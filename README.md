@@ -144,7 +144,7 @@ Integrate security into the CI/CD pipeline.
 ## 📸 Screenshots
 
 > Added screenshots :
-
+https://github.com/pm-Praveenm/Project-Devops-Bookmyshow-praveenm/blob/main/Deployment%20of%20Online%20Ticketing%20and%20Event%20Management%20Applications%20and%20Infrastructure(PRAVEEN%20M).pdf
 ---
 
 ## ⭐ Support
